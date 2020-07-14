@@ -1,0 +1,150 @@
+/* Color palette = 42191
+  Color pallete 2 - 189745 */
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top {
+  background-color: #eeeeee;
+  padding: 100px;
+}
+
+h1 {
+  line-height: 2;
+  margin: 0 auto;
+  color: #66BFBF;
+  font-size: 5em;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  margin-top: 0;
+  font-family: 'Changa', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  margin-top: 0;
+  font-family: 'Changa', sans-serif;
+}
+
+p {
+  margin:auto;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 550px;
+  top: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.middle {
+  margin-top: 50px;
+}
+
+.bottom{
+  margin: 100px auto 0 auto;
+  height: 200px;
+  background-color: #66BFBF;
+}
+
+.skill-rowo{
+  margin: 50px auto 100px auto;
+  align-content: center;
+  width: 40%;
+  text-align: left;
+  line-height: 2;
+}
+.skill-rowe{
+  margin: 50px auto 100px auto;
+  align-content: center;
+  width: 40%;
+  text-align:right;
+  line-height: 2;
+}
+
+.book{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.drawing{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.game{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-link{
+  position: relative;
+  top: 60px;
+  font-family: sans-serif;
+}
+
+hr {
+  border: dotted #99d8d0 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+.footer{
+  position: relative;
+  top: 150px;
+
+}
+.skill-h3{
+  width: 40%;
+  text-decoration: underline;
+}
+.contact-msg{
+  margin: 40px auto 60px;
+}
+
+.btn {
+	background-color:#16ccba;
+	border-radius:42px;
+	border:1px solid #4b8f29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #5b8a3c;
+}
+.btn:hover {
+	background-color:#1e73a1;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+  color: #11999e;
+  font-family: 'Changa', sans-serif;
+  font-size: 20px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
